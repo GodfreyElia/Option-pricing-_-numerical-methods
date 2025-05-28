@@ -2,6 +2,8 @@
 
 This **Shiny application** provides an interactive dashboard for exploring and comparing different numerical methods used to price **European and American options**. It dynamically fetches **live market data** for the **S&P 500 (^GSPC)**, **VIX Index (^VIX)**, and **13-week U.S. Treasury Bill yield (^IRX)** from **Yahoo Finance**, allowing for up-to-date analysis.
 
+See the live dashboard [here](https://godfreyelia.shinyapps.io/SPX_Option_Pricing/)
+
 ---
 
 ## 🚀 Features
